@@ -1,7 +1,7 @@
 # Wunschzettel
-In keiner besonderen Reihenfolge
+Ein paar Ideen, in keiner besonderen Reihenfolge
 ## Bastelteile
-* 3D-Druck Plastik spule (PLA, PETG)
+* 3D-Druck Plastikspule (PLA, PETG)
 * DSPIAE Departure [DS-TC-S01]( https://amzn.eu/d/iOA5UH0)
 - Gunpla von Bandai, RG (Real Grade) oder MG (Master Grade).
   - z.B. der Strike, Strike Freedom, Zaku, ...
@@ -21,3 +21,10 @@ In keiner besonderen Reihenfolge
 * Mushoku Tensei, Light novel (nicht Manga), ab [Band 1](https://amzn.eu/d/eFVZdQl), Englisch, gedruckte Ausgabe
 ## Weiteres
 * paar A3 bilderrahmen (mit Glas, nicht plexi), passgenau
+* AAA  Wiederaufladbare Akku-Batterien
+## Teesachen
+* Schöne kleine Tischdecken/Lappen zum Teebrauen
+* [Gaiwan](https://www.amazon.de/s?k=gaiwan&crid=18OWJ2BNBOXAI&sprefix=gaiwan%2Caps%2C157&ref=nb_sb_ss_ts-doa-p_1_6) unter 200ml
+- Echter Tee (Grün, Schwarz, Sencha, Weiss, Puer, Matcha,...)
+  - Keine Mischung, nicht aromatisiert, keine Früchte/Kräuter
+  - Vertrauenswürdiger Händler mit Ladengeschäft ist z.b. das [Tee-Kontor](https://www.tee-kontor-kiel.de/) in Kiel (Holtenauer str.)
