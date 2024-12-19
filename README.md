@@ -3,9 +3,11 @@ Ein paar Ideen, in keiner besonderen Reihenfolge
 ## Bastelteile
 * 3D-Druck Plastikspule (PLA, PETG)
 * DSPIAE Departure [DS-TC-S01]( https://amzn.eu/d/iOA5UH0)
-- Gunpla von Bandai, RG (Real Grade) oder MG (Master Grade).
-  - z.B. der Strike, Strike Freedom, Zaku, ...
-  - ein deutscher Händler ist z.B [O-Gundam](https://www.o-gundam.de)
+* Skalpel Klingen [z.B.](https://amzn.eu/d/3JnyXjI)
+* Gunpla (Kampfrobotermodelle) von Bandai: RG (Real Grade) oder MG (Master Grade).
+  * z.B. der Strike, Strike Freedom, Zaku, ...
+  * ein deutscher Händler ist z.B [O-Gundam](https://www.o-gundam.de)
+* [Selbstheilende Schneidematte](https://www.amazon.de/s?k=selbstheilende+schneidematte&crid=NINZ9DB2Y0DN&sprefix=Selbstheile%2Caps%2C122) 
 ## Tastaturteile
 * 54x Gateron Melodic
 * 56x TTC Silent Frozen
