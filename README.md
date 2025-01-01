@@ -18,8 +18,8 @@ Ein paar Ideen, in keiner besonderen Reihenfolge
 ## Getränke
 ### Alkoholisch
 * Japanischer Sake (nihonshuu)
-* (guter) Single Malt Whiskey
-  * Guter händler ist z.B. [Whisky.de](https://www.whisky.de)
+* ~(guter) Single Malt Whiskey~
+  * ~Guter händler ist z.B. [Whisky.de](https://www.whisky.de)~
 ### Teesachen
 * Schöne kleine, dekorierte Tischdecken/Lappen zum Teebrauen
   * Zum beispiel in [diesem](https://amzn.eu/d/60aCwSb) Stil, oder [sowas](https://amzn.eu/d/atgfA4I)
