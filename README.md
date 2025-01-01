@@ -9,7 +9,7 @@ Ein paar Ideen, in keiner besonderen Reihenfolge
   * ein deutscher Händler ist z.B [O-Gundam](https://www.o-gundam.de)
 * [Selbstheilende Schneidematte](https://www.amazon.de/s?k=selbstheilende+schneidematte&crid=NINZ9DB2Y0DN&sprefix=Selbstheile%2Caps%2C122) 
 ## Füller
-* [TWSBI Eco](https://www.amazon.de/s?k=twsbi+eco+f&crid=39A885Z0SWV6Y&sprefix=twsbi+eco%2Caps%2C102&ref=nb_sb_ss_ts-doa-p_4_9), Feine Spitze (F)
+Feine Spitze (F)
 * Schöne Tinte im Glas (idr. ca. 30ml), jede Farbe ausser Königsblau oder Schwarz ist Ok
 ## Bücher
 * Re:Zero, Light novel (nicht Manga), ab [Band 1](https://amzn.eu/d/fguLadK), Englisch, gedruckte Ausgabe
